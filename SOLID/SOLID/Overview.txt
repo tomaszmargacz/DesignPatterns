@@ -1,4 +1,0 @@
-﻿Celem SOLID jest przygotowanie pośrednich struktur oprogramowania, które:
-- Będą dobrze znosiły zmiany
-- Będą łatwe do zrozumienia
-- Staną się podstawą dla komponentów, które zostaną użyte w wielu systemach

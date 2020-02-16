@@ -1,3 +1,0 @@
-﻿DIP - zasada odwrócenia zależności
-
-Polega na tym, ze zależności w kodzie źródłowym odnoszą się wyłącznie do abstrakcji, a nie do konkretnych elementów.
