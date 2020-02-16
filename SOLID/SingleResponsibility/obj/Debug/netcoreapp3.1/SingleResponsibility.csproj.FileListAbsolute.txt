@@ -1,0 +1,11 @@
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.exe
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.deps.json
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.runtimeconfig.json
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.runtimeconfig.dev.json
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.dll
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.pdb
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.csprojAssemblyReference.cache
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfo.cs
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.dll
+C:\Code\GitHub\DesignPatterns\SOLID\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.pdb

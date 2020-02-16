@@ -1,0 +1,13 @@
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.exe
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.deps.json
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.json
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.dev.json
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.dll
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.pdb
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.csprojAssemblyReference.cache
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfo.cs
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.csproj.CopyComplete
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.dll
+C:\Code\GitHub\DesignPatterns\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.pdb
