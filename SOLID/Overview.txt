@@ -1,0 +1,7 @@
+Celem SOLID jest przygotowanie poœrednich struktur oprogramowania, które:
+- Bêd¹ dobrze znosi³y zmiany
+- Bêd¹ ³atwe do zrozumienia
+- Stan¹ siê podstaw¹ dla komponentów, które zostan¹ u¿yte w wielu systemach
+
+Jak nale¿y pisaæ oprogramowanie?
+SOLID'nie ;)

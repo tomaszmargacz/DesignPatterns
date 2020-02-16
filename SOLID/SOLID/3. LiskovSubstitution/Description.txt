@@ -1,0 +1,4 @@
+﻿LSP - zasada podstawień Liskov
+
+Zawsze możesz podstawić obiekt pochodny w miejsce obiektu bazowego.
+Gdy się przesłania metody zgodnie z tą zasadą muszą one zachowywać zachowanie polimorficzne.

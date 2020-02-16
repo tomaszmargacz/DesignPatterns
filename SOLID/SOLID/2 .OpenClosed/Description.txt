@@ -1,0 +1,3 @@
+﻿OCP - reguła otwarte - zamknięte
+
+Element oprogramowania powinien być otwarty na rozbudowę, ale zamknięty na modyfikacje.

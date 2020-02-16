@@ -1,0 +1,5 @@
+﻿SRP - reguła jednej odpowiedzialności
+
+Zasada mówi, że każdy obiekt powinien mieć tylko jeden cel i odpowiedzialność.
+Stosując tę zasadę unikasz problemów z pojedynczymi, klasami, które są niczym szwajcarski scyzoryk.
+Każdy moduł powinien odpowiadać przed jednym aktorem.

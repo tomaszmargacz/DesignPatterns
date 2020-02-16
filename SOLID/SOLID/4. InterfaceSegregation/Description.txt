@@ -1,0 +1,4 @@
+﻿ISP - zasada rozdzielania interfejsów 
+
+Polega na rozdzieleniu wszystkich funkcji na osobne interfejsy. 
+Klasa dziedzicząca po interfejsie nie powinna zawierać niepotrzebnych metod.
