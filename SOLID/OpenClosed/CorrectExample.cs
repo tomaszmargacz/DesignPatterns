@@ -5,7 +5,7 @@
         public abstract byte[] Execute();
     }
 
-    public class PDF : Export
+    public class PDFExport : Export
     {
         public override byte[] Execute()
         {
@@ -13,7 +13,7 @@
         }
     }
 
-    public class Excel : Export
+    public class ExcelExport : Export
     {
         public override byte[] Execute()
         {

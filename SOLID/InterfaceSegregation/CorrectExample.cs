@@ -7,13 +7,9 @@ namespace InterfaceSegregation
         public Task Create();
     }
 
-    public interface IEditAccount
+    public interface IModifyAccount
     {
         public Task Edit();
-    }
-
-    public interface IDeleteAccount
-    {
         public Task Delete();
     }
 
@@ -25,7 +21,7 @@ namespace InterfaceSegregation
         }
     }
 
-    public class UserProfile : IEditAccount, IDeleteAccount
+    public class UserProfile : IModifyAccount
     {
         public async Task Edit()
         {
