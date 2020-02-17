@@ -14,8 +14,8 @@ namespace OpenClosed
         {
             return type switch
             {
-                "PDF" => new PDF(),
-                "Excel" => new Excel(),
+                "PDF" => new PDFExport(),
+                "Excel" => new ExcelExport(),
                 _ => throw new NotImplementedException(),
             };
         }
